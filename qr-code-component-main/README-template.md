@@ -55,3 +55,8 @@ Making use of flexbox and positioning of the div containers
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
 
 
+I've just completed a front-end coding challenge from @frontendmentor! 🎉
+
+You can see my solution here: https://www.frontendmentor.io/solutions/--semantic-html5-markup---css-custom-properties---flexbox---google-fon-7kB9oSY0gV
+
+Any suggestions on how I can improve are welcome!
